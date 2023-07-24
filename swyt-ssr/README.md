@@ -41,10 +41,13 @@ L'application sera accessible à l'adresse [http://localhost:3000](http://localh
 # Fonctionnalités
 
 - **Connexion et Déconnexion :** Les utilisateurs peuvent se connecter avec leur compte existant ou se déconnecter de l'application.
+- **Insciption :** Les nouveaux utilisateurs peuvent s'inscrire en créant un compte sur l'application.
 - **Gestion du Profil :** Les utilisateurs ont la possibilité de supprimer leur profil s'ils le souhaitent.
 - **Création, Modification et Suppression d'Avis :** Les utilisateurs connectés peuvent créer de nouveaux avis sur les sweats "oversize", modifier leurs avis existants ou les supprimer.
 - **Consultation des Avis :** Les utilisateurs peuvent consulter les avis donnés par d'autres utilisateurs.
 - **Interaction avec les Avis :** Les utilisateurs peuvent liker ou disliker les avis des autres utilisateurs.
+- **Ajout dans le Panier :** Les utilisateurs peuvent ajouter des sweats "oversize" dans leur panier d'achat.
+- **Procédure de Paiement :** Les utilisateurs peuvent procéder au paiement des articles présents dans leur panier.
 
 ## Contribuer
 
