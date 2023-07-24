@@ -45,3 +45,11 @@ L'application sera accessible à l'adresse [http://localhost:3000](http://localh
 - **Création, Modification et Suppression d'Avis :** Les utilisateurs connectés peuvent créer de nouveaux avis sur les sweats "oversize", modifier leurs avis existants ou les supprimer.
 - **Consultation des Avis :** Les utilisateurs peuvent consulter les avis donnés par d'autres utilisateurs.
 - **Interaction avec les Avis :** Les utilisateurs peuvent liker ou disliker les avis des autres utilisateurs.
+
+## Contribuer
+
+Nous n'acceptons pas actuellement les contributions externes pour ce projet. Cependant, n'hésitez pas à cloner le projet et à l'utiliser comme base pour vos propres expériences.
+
+## Licence
+
+Ce projet est sous licence [MIT](https://choosealicense.com/licenses/mit/).
