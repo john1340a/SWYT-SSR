@@ -53,3 +53,8 @@ Nous n'acceptons pas actuellement les contributions externes pour ce projet. Cep
 ## Licence
 
 Ce projet est sous licence [MIT](https://choosealicense.com/licenses/mit/).
+
+## Auteur
+
+- [@Achref](https://www.github.com/AchrefAwaissi)
+- [@Jean-Kelly](https://www.github.com/john1340a)
