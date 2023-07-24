@@ -37,3 +37,11 @@ pnpm dev
 ```
 
 L'application sera accessible à l'adresse [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+
+# Fonctionnalités
+
+- **Connexion et Déconnexion :** Les utilisateurs peuvent se connecter avec leur compte existant ou se déconnecter de l'application.
+- **Gestion du Profil :** Les utilisateurs ont la possibilité de supprimer leur profil s'ils le souhaitent.
+- **Création, Modification et Suppression d'Avis :** Les utilisateurs connectés peuvent créer de nouveaux avis sur les sweats "oversize", modifier leurs avis existants ou les supprimer.
+- **Consultation des Avis :** Les utilisateurs peuvent consulter les avis donnés par d'autres utilisateurs.
+- **Interaction avec les Avis :** Les utilisateurs peuvent liker ou disliker les avis des autres utilisateurs.
