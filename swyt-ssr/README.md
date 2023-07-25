@@ -1,8 +1,8 @@
-# SWYT Review - Application Web d'Avis sur les Sweats
+# SWYT - Boutique E-commerce
 
 Ceci est un projet SRR avec [Next.js](https://nextjs.org/) pour un site e-commerce qui s'appelle SWYT.
 
-SWYT Review est une application web qui permet aux utilisateurs de donner leur avis sur les sweats "oversize" de la marque de vêtements SWYT. Les utilisateurs peuvent se connecter, créer et modifier leurs avis, consulter les avis d'autres utilisateurs et interagir en les likant ou en les dislikant.
+SWYT est une boutique e-commerce de vêtements "oversize" de la marque SWYT. En plus de permettre aux utilisateurs de consulter les produits et de passer des commandes, l'application intègre une fonctionnalité d'avis (SWYT Review) permettant aux clients de donner leur avis sur les articles qu'ils ont achetés.
 
 ## Installation
 
@@ -40,14 +40,16 @@ L'application sera accessible à l'adresse [http://localhost:3000](http://localh
 
 # Fonctionnalités
 
-- **Connexion et Déconnexion :** Les utilisateurs peuvent se connecter avec leur compte existant ou se déconnecter de l'application.
-- **Insciption :** Les nouveaux utilisateurs peuvent s'inscrire en créant un compte sur l'application.
-- **Gestion du Profil :** Les utilisateurs ont la possibilité de supprimer leur profil s'ils le souhaitent.
-- **Création, Modification et Suppression d'Avis :** Les utilisateurs connectés peuvent créer de nouveaux avis sur les sweats "oversize", modifier leurs avis existants ou les supprimer.
-- **Consultation des Avis :** Les utilisateurs peuvent consulter les avis donnés par d'autres utilisateurs.
-- **Interaction avec les Avis :** Les utilisateurs peuvent liker ou disliker les avis des autres utilisateurs.
-- **Ajout dans le Panier :** Les utilisateurs peuvent ajouter des sweats "oversize" dans leur panier d'achat.
+- **Catalogue de Produits :** Les utilisateurs peuvent consulter le catalogue complet des produits "oversize" disponibles à l'achat.
+- **Recherche de Produits :** Les utilisateurs peuvent effectuer des recherches dans le catalogue de produits pour trouver des articles spécifiques.
+- **Filtrage des Produits :** Les utilisateurs peuvent filtrer les produits par catégorie, taille, couleur, etc., pour faciliter leur recherche.
+- **Fiche Produit Détaillée :** Chaque produit dispose d'une page détaillée présentant des informations spécifiques, des images, des avis, etc.
+- **Ajout au Panier :** Les utilisateurs peuvent ajouter des articles dans leur panier d'achat.
+- **Gestion du Panier :** Les utilisateurs peuvent afficher le contenu de leur panier, modifier les quantités et supprimer des articles.
 - **Procédure de Paiement :** Les utilisateurs peuvent procéder au paiement des articles présents dans leur panier.
+- **Inscription et Connexion :** Les utilisateurs peuvent créer un compte, se connecter avec leurs identifiants, et se déconnecter de l'application.
+- **Gestion du Profil :** Les utilisateurs ont la possibilité de visualiser et de modifier leur profil, ainsi que de supprimer leur compte si nécessaire.
+- **Avis et Notations :** Les utilisateurs peuvent donner leur avis et attribuer une note aux articles qu'ils ont achetés.
 
 ## Contribuer
 
