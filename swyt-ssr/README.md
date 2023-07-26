@@ -1,6 +1,6 @@
 # SWYT - Boutique E-commerce
 
-Ceci est un projet SRR avec [Next.js](https://nextjs.org/) pour un site e-commerce qui s'appelle SWYT.
+Ceci est un projet SSR avec [Next.js](https://nextjs.org/) pour un site e-commerce qui s'appelle SWYT.
 
 SWYT est une boutique e-commerce de vêtements "oversize" de la marque SWYT. En plus de permettre aux utilisateurs de consulter les produits et de passer des commandes, l'application intègre une fonctionnalité d'avis (SWYT Review) permettant aux clients de donner leur avis sur les articles qu'ils ont achetés.
 
